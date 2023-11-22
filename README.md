@@ -162,11 +162,11 @@ Here are a couple of examples:
 #### BibTeX
 ```bibtex
 @software{Martinez_Toro_PrivateGPT_2023,
-author = {Martínez Toro, Iván and Gallego Vico, Daniel and Orgaz, Pablo},
+author = {Aakash Raja K M},
 license = {Apache-2.0},
 month = may,
-title = {{PrivateGPT}},
-url = {https://github.com/imartinez/privateGPT},
+title = {{LLM over Documents}},
+url = {https://github.com/Aakashraja17/LLM-over-documents},
 year = {2023}
 }
 ```
